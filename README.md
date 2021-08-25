@@ -1,5 +1,7 @@
 ![image for guide](https://source.unsplash.com/I5b0wNCiDg4)
 
+Visit www.grokkingcoding.io for more coding tips and tricks!
+
 ### About
 
 - This is a short introduction to how to do some common array manipulations in javascript.
@@ -47,6 +49,8 @@ const whereToInsert = (arr, number) =>
 
 "whereToInsert" will return the index in the array where to insert the number if the array was sorted. In our case it should insert 89 at the end of the arr.
 
+Visit www.grokkingcoding.io for more short tutorials like this one!
+
 4. How do you sort an array the easy way?
 
 You can sort an array with the .sort method in javascript.
@@ -57,3 +61,5 @@ let arr = [25,7,67, 50];
 arr.sort((a,b) => a-b);
 
 ```
+
+Visit www.grokkingcoding.io to practise the most common programming questions!
